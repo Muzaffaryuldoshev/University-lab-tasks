@@ -1,6 +1,6 @@
 package lab_class_5;
 
-import java.lang.reflect.Array;
+
 
 public class Task_3_TwoDimensionalArray {
     public static void main(String[] args) {
