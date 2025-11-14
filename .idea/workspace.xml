@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc0ac2cf-d2ed-434f-bf34-4f8c20bc3885" name="Changes" comment="Completed Tasks of 5th lab">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/University-lab-tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_6/Task_1A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/lab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_class_5/Task_3_TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_class_5/Task_3_TwoDimensionalArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Muzaffaryuldoshev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Muzaffaryuldoshev/University-lab-tasks.git&quot;,
+    &quot;accountId&quot;: &quot;03874860-2d76-4085-bb36-08b825f0b7f8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="340PffzWAbO0OQoP6vUEIYGNUHr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3QuadraticEquation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task4SumOFEvenNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_1A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_2_MinMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_3_TwoDimensionalArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_4_ConcataningStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab_class_2.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/99894/auto-demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Task_1A">
+    <configuration name="Task_1A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_6.Task_1A" />
+      <module name="University-lab-tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_class_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_2_MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_5.Task_2_MinMax" />
+      <module name="University-lab-tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_class_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_3_TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_5.Task_3_TwoDimensionalArray" />
+      <module name="University-lab-tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_class_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_4_ConcataningStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_5.Task_4_ConcataningStrings" />
+      <module name="University-lab-tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_class_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_5_Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_5.Task_5_Palindrom" />
+      <module name="University-lab-tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_class_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task_1A" />
+        <item itemvalue="Application.Task_5_Palindrom" />
+        <item itemvalue="Application.Task_4_ConcataningStrings" />
+        <item itemvalue="Application.Task_3_TwoDimensionalArray" />
+        <item itemvalue="Application.Task_2_MinMax" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc0ac2cf-d2ed-434f-bf34-4f8c20bc3885" name="Changes" comment="" />
+      <created>1760347623220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760347623220</updated>
+      <workItem from="1760347625426" duration="1115000" />
+      <workItem from="1760348807944" duration="819000" />
+      <workItem from="1760487018401" duration="11000" />
+      <workItem from="1760517520601" duration="264000" />
+      <workItem from="1760517813461" duration="231000" />
+      <workItem from="1760624179264" duration="2041000" />
+      <workItem from="1760804942507" duration="2303000" />
+      <workItem from="1761635705737" duration="322000" />
+      <workItem from="1761809108107" duration="3091000" />
+      <workItem from="1761817772003" duration="2221000" />
+      <workItem from="1762431248546" duration="773000" />
+      <workItem from="1762435026665" duration="197000" />
+      <workItem from="1763020759387" duration="407000" />
+      <workItem from="1763025063219" duration="614000" />
+      <workItem from="1763025827315" duration="2487000" />
+      <workItem from="1763028757251" duration="198000" />
+      <workItem from="1763035238080" duration="450000" />
+      <workItem from="1763036106030" duration="329000" />
+      <workItem from="1763036505792" duration="1500000" />
+      <workItem from="1763038317446" duration="366000" />
+      <workItem from="1763038868452" duration="399000" />
+      <workItem from="1763108502148" duration="644000" />
+      <workItem from="1763112098340" duration="258000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lab Task 3 task - Code written &#10;Task 4 - Account created and Added&#10;Sharing java Project File">
+      <option name="closed" value="true" />
+      <created>1760348452332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760348452332</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Some Previous changes &#10;2nd class task2 completed">
+      <option name="closed" value="true" />
+      <created>1760806634236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760806634236</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed Tasks of 5th lab">
+      <option name="closed" value="true" />
+      <created>1763028816404</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763028816404</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab Task 3 task - Code written &#10;Task 4 - Account created and Added&#10;Sharing java Project File" />
+    <MESSAGE value="Some Previous changes &#10;2nd class task2 completed" />
+    <MESSAGE value="Completed Tasks of 5th lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Tasks of 5th lab" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab_class_1/Task3.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab_class_1/Task3.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
