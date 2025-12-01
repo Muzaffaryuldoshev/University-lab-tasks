@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc0ac2cf-d2ed-434f-bf34-4f8c20bc3885" name="Changes" comment="Completed Tasks of 5th lab">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/University-lab-tasks.iml" afterDir="false" />
+    <list default="true" id="dc0ac2cf-d2ed-434f-bf34-4f8c20bc3885" name="Changes" comment="Lab 10 task 6 --&gt; Slightly Finished but need direction">
+      <change afterPath="$PROJECT_DIR$/src/lab_class_10/task4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/lab_class_6/Task_1A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_class_7/lab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_class_5/Task_3_TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_class_5/Task_3_TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_6/practice_BubbleRecursiveSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_6/practice_BubbleRecursiveSort/SwappingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/AnimalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/Blowfish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_7/Pigeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_9/task_1/CallingExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_9/task_1/NullPointer_ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_9/task_3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_9/task_3/NotEnoughFund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_class_9/task_3/task3_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/University-lab-tasks/lab_class_6/Task_1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/University-lab-tasks/lab_class_6/Task_1A.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +53,7 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="340PffzWAbO0OQoP6vUEIYGNUHr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -56,17 +66,26 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.AnimalMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallingExceptionClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwappingElements.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task1Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1_NullException.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task3QuadraticEquation.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task4SumOFEvenNums.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task_1A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task_2_MinMax.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task_3_TwoDimensionalArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task_4_ConcataningStrings.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab_class_2.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task3_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task6.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
@@ -78,17 +97,17 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task_1A">
-    <configuration name="Task_1A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_class_6.Task_1A" />
+  <component name="RunManager" selected="Application.task6">
+    <configuration name="CallingExceptionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_9.task_1.CallingExceptionClass" />
       <module name="University-lab-tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_class_6.*" />
+          <option name="PATTERN" value="lab_class_9.task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_2_MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_class_5.Task_2_MinMax" />
+    <configuration name="Task1_NullException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_9.Task1_NullException" />
       <module name="University-lab-tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_class_5.*" />
+          <option name="PATTERN" value="lab_class_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_3_TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_class_5.Task_3_TwoDimensionalArray" />
+    <configuration name="task3_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_9.task_3.task3_Main" />
       <module name="University-lab-tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_class_5.*" />
+          <option name="PATTERN" value="lab_class_9.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_4_ConcataningStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_class_5.Task_4_ConcataningStrings" />
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_10.task4" />
       <module name="University-lab-tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_class_5.*" />
+          <option name="PATTERN" value="lab_class_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_5_Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_class_5.Task_5_Palindrom" />
+    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_class_10.task6" />
       <module name="University-lab-tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_class_5.*" />
+          <option name="PATTERN" value="lab_class_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_1A" />
-        <item itemvalue="Application.Task_5_Palindrom" />
-        <item itemvalue="Application.Task_4_ConcataningStrings" />
-        <item itemvalue="Application.Task_3_TwoDimensionalArray" />
-        <item itemvalue="Application.Task_2_MinMax" />
+        <item itemvalue="Application.task6" />
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.task3_Main" />
+        <item itemvalue="Application.CallingExceptionClass" />
+        <item itemvalue="Application.Task1_NullException" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +216,23 @@
       <workItem from="1763038868452" duration="399000" />
       <workItem from="1763108502148" duration="644000" />
       <workItem from="1763112098340" duration="258000" />
+      <workItem from="1763113150532" duration="405000" />
+      <workItem from="1763470656123" duration="1909000" />
+      <workItem from="1763472766695" duration="631000" />
+      <workItem from="1763474006601" duration="329000" />
+      <workItem from="1763474534532" duration="993000" />
+      <workItem from="1763475695748" duration="584000" />
+      <workItem from="1763476895246" duration="393000" />
+      <workItem from="1763477527383" duration="1148000" />
+      <workItem from="1763479166998" duration="205000" />
+      <workItem from="1764153281131" duration="6046000" />
+      <workItem from="1764159838783" duration="392000" />
+      <workItem from="1764176201303" duration="41000" />
+      <workItem from="1764245375052" duration="3404000" />
+      <workItem from="1764249225079" duration="565000" />
+      <workItem from="1764523732890" duration="3626000" />
+      <workItem from="1764582292944" duration="4335000" />
+      <workItem from="1764608911519" duration="273000" />
     </task>
     <task id="LOCAL-00001" summary="Lab Task 3 task - Code written &#10;Task 4 - Account created and Added&#10;Sharing java Project File">
       <option name="closed" value="true" />
@@ -222,7 +258,39 @@
       <option name="project" value="LOCAL" />
       <updated>1763028816404</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="all  done">
+      <option name="closed" value="true" />
+      <created>1763113209293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763113209293</updated>
+    </task>
+    <task id="LOCAL-00005" summary="all  done">
+      <option name="closed" value="true" />
+      <created>1763113476823</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763113476823</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all  done">
+      <option name="closed" value="true" />
+      <created>1763113547603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763113547603</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lab 10 task 6 --&gt; Slightly Finished but need direction">
+      <option name="closed" value="true" />
+      <created>1764609168686</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764609168686</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +311,9 @@
     <MESSAGE value="Lab Task 3 task - Code written &#10;Task 4 - Account created and Added&#10;Sharing java Project File" />
     <MESSAGE value="Some Previous changes &#10;2nd class task2 completed" />
     <MESSAGE value="Completed Tasks of 5th lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Tasks of 5th lab" />
+    <MESSAGE value="all  done" />
+    <MESSAGE value="Lab 10 task 6 --&gt; Slightly Finished but need direction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 10 task 6 --&gt; Slightly Finished but need direction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
